@@ -8,6 +8,8 @@
 - [Getting Started](#getting-started)
 - [Usage](#usage)
 - [Contributing](#contributing)
+- [Screenshots](#screenshots)
+
 
 
 ## Description
@@ -72,3 +74,9 @@ If you'd like to contribute to this project, please follow these steps:
 3. Make your changes and test them thoroughly.
 
 4. Create a pull request with a clear description of your changes.
+
+
+
+## Screenshots
+
+![Screenshot](src/calc.png)

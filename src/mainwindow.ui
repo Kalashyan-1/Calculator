@@ -6,15 +6,15 @@
    <rect>
     <x>0</x>
     <y>0</y>
-    <width>241</width>
-    <height>361</height>
+    <width>242</width>
+    <height>364</height>
    </rect>
   </property>
   <property name="mouseTracking">
    <bool>false</bool>
   </property>
   <property name="windowTitle">
-   <string>MainWindow</string>
+   <string>Calculator</string>
   </property>
   <widget class="QWidget" name="centralwidget">
    <widget class="QLabel" name="text">
@@ -120,7 +120,7 @@ QPushButton:pressed {
 
 QPushButton:pressed {
     background-color: qlineargradient(x1: 0, y1: 0, x2: 0, y2: 1,
-                                      stop: 0 #FF7832, stop: 1 #FF9739);
+                                      stop: 0 #FF7802, stop: 1 #FF9739);
 }</string>
     </property>
     <property name="text">
